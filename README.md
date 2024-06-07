@@ -1,3 +1,5 @@
 # catastrophiccafe
 
-Kotlin Android App Connected to Web database through Retrofit API
+Kotlin android native app connected in Web database through Retrofit API
+
+IF storage difficulties occured, kindly check the gdrive link for zip file thank you~ https://drive.google.com/drive/folders/1eQhKml42QRqaqKM_etGcqQHhX8mY7o3u?usp=sharing
