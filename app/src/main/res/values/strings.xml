@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">catastrophiccafe</string>
+    <string name="cafe_latte_desc">Cafe Latte
+        Price: ₱250</string>
+</resources>
